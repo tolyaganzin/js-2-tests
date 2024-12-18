@@ -1,5 +1,5 @@
 # js-2-tests
-2 test tasks
+2 test tasks solutions you can see at `test1.js` and `test2.js` files
 
 ## Task 1
 
